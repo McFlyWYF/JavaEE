@@ -68,4 +68,12 @@ public class Application extends Controller {
     public static void studentInfo(){
         render();
     }
+
+    public static void deletesucc(){
+        render();
+    }
+
+    public static void deletest(){
+        render();
+    }
 }

@@ -24,3 +24,5 @@ GET     /public/                                staticDir:public
 *        /teares                                  Application.register
 *        /student                                 Application.information
 *        /stuInfo                                 Application.studentInfo
+*        /deletesucc                              Application.deletesucc
+*        /deletest                                Application.deletest
